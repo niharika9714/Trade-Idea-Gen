@@ -1,0 +1,33 @@
+{
+    "dataset_type": "synthetic_financial_news",
+    "ticker": "STAN",
+    "article_count": 1,
+    "articles": [
+        {
+            "article_id": "NEWS-STAN-001",
+            "ticker": "STAN",
+            "company": "Standard Chartered",
+            "sector": "Global Banks",
+            "event_id": "STAN-EVENT-003",
+            "publication_datetime": "2025-08-08T10:20:00",
+            "event_datetime": "2025-08-08T08:00:00",
+            "source": "Synthetic Global Markets Wire",
+            "author": "Synthetic Banking Correspondent",
+            "article_type": "earnings",
+            "headline": "Standard Chartered synthetic earnings focus on return metrics",
+            "summary": "Synthetic results focus on return metrics, profitability and valuation.",
+            "sentiment": "neutral",
+            "body": "The synthetic Standard Chartered earnings update focused on return metrics, profitability and valuation. The market continued to compare global banks across capital efficiency and earnings resilience.",
+            "tags": [
+                "earnings",
+                "roe",
+                "valuation",
+                "global-banks"
+            ],
+            "entities": [
+                "Standard Chartered",
+                "Global Banks"
+            ]
+        }
+    ]
+}

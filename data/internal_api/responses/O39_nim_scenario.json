@@ -1,0 +1,29 @@
+{
+    "api_response_type": "nim_scenario",
+    "api_version": "1.0",
+    "request_id": "REQ-NIM-O39-001",
+    "generated_at": "2026-09-27T05:19:48.089522Z",
+    "company": {
+        "ticker": "O39",
+        "name": "OCBC",
+        "sector": "Singapore Banks"
+    },
+    "scenario": {
+        "scenario_name": "50bps NIM Compression",
+        "base_nim_percent": 2.05,
+        "nim_change_bps": -50,
+        "stressed_nim_percent": 1.55
+    },
+    "calculations": {
+        "estimated_eps_impact_percent": -6.0,
+        "base_eps": 1.45,
+        "stressed_eps": 1.363,
+        "estimated_eps_change": -0.087
+    },
+    "provenance": {
+        "source_system": "Synthetic Internal Pricing Engine",
+        "source_type": "internal_api",
+        "calculation_type": "scenario_analysis",
+        "synthetic": true
+    }
+}

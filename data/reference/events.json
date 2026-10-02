@@ -1,0 +1,122 @@
+[
+    {
+        "event_id": "EVENT-001",
+        "date": "2024-02-15",
+        "company_id": "COMP-001",
+        "event_type": "EARNINGS",
+        "title": "DBS FY2023 Earnings Release",
+        "topics": [
+            "TOPIC-001",
+            "TOPIC-002",
+            "TOPIC-004"
+        ]
+    },
+    {
+        "event_id": "EVENT-002",
+        "date": "2024-05-10",
+        "company_id": "COMP-001",
+        "event_type": "EARNINGS",
+        "title": "DBS Q1 2024 Earnings",
+        "topics": [
+            "TOPIC-001",
+            "TOPIC-002",
+            "TOPIC-003"
+        ]
+    },
+    {
+        "event_id": "EVENT-003",
+        "date": "2024-08-08",
+        "company_id": "COMP-001",
+        "event_type": "EARNINGS",
+        "title": "DBS Q2 2024 Earnings",
+        "topics": [
+            "TOPIC-001",
+            "TOPIC-002",
+            "TOPIC-005"
+        ]
+    },
+    {
+        "event_id": "EVENT-004",
+        "date": "2024-11-07",
+        "company_id": "COMP-001",
+        "event_type": "EARNINGS",
+        "title": "DBS Q3 2024 Earnings",
+        "topics": [
+            "TOPIC-001",
+            "TOPIC-003",
+            "TOPIC-004"
+        ]
+    },
+    {
+        "event_id": "EVENT-005",
+        "date": "2025-02-14",
+        "company_id": "COMP-001",
+        "event_type": "EARNINGS",
+        "title": "DBS FY2024 Earnings",
+        "topics": [
+            "TOPIC-001",
+            "TOPIC-005",
+            "TOPIC-009"
+        ]
+    },
+    {
+        "event_id": "EVENT-006",
+        "date": "2025-05-09",
+        "company_id": "COMP-001",
+        "event_type": "EARNINGS",
+        "title": "DBS Q1 2025 Earnings",
+        "topics": [
+            "TOPIC-001",
+            "TOPIC-002",
+            "TOPIC-006"
+        ]
+    },
+    {
+        "event_id": "EVENT-007",
+        "date": "2025-08-08",
+        "company_id": "COMP-001",
+        "event_type": "EARNINGS",
+        "title": "DBS Q2 2025 Earnings",
+        "topics": [
+            "TOPIC-001",
+            "TOPIC-002",
+            "TOPIC-005"
+        ]
+    },
+    {
+        "event_id": "EVENT-008",
+        "date": "2025-11-06",
+        "company_id": "COMP-001",
+        "event_type": "EARNINGS",
+        "title": "DBS Q3 2025 Earnings",
+        "topics": [
+            "TOPIC-001",
+            "TOPIC-003",
+            "TOPIC-010"
+        ]
+    },
+    {
+        "event_id": "EVENT-009",
+        "date": "2026-02-13",
+        "company_id": "COMP-001",
+        "event_type": "EARNINGS",
+        "title": "DBS FY2025 Earnings",
+        "topics": [
+            "TOPIC-001",
+            "TOPIC-005",
+            "TOPIC-009"
+        ]
+    },
+    {
+        "event_id": "EVENT-010",
+        "date": "2025-09-18",
+        "company_id": "COMP-001",
+        "event_type": "MACRO",
+        "title": "Synthetic Monetary Policy Shock",
+        "topics": [
+            "TOPIC-002",
+            "TOPIC-007",
+            "TOPIC-006"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "api_response_type": "nim_scenario",
+    "api_version": "1.0",
+    "request_id": "REQ-NIM-U11-001",
+    "generated_at": "2026-09-27T05:19:48.094380Z",
+    "company": {
+        "ticker": "U11",
+        "name": "UOB",
+        "sector": "Singapore Banks"
+    },
+    "scenario": {
+        "scenario_name": "50bps NIM Compression",
+        "base_nim_percent": 2.1,
+        "nim_change_bps": -50,
+        "stressed_nim_percent": 1.6
+    },
+    "calculations": {
+        "estimated_eps_impact_percent": -6.0,
+        "base_eps": 2.85,
+        "stressed_eps": 2.679,
+        "estimated_eps_change": -0.171
+    },
+    "provenance": {
+        "source_system": "Synthetic Internal Pricing Engine",
+        "source_type": "internal_api",
+        "calculation_type": "scenario_analysis",
+        "synthetic": true
+    }
+}

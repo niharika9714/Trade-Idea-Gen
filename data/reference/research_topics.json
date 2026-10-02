@@ -1,0 +1,52 @@
+[
+    {
+        "topic_id": "TOPIC-001",
+        "name": "Earnings",
+        "description": "Quarterly and annual earnings performance"
+    },
+    {
+        "topic_id": "TOPIC-002",
+        "name": "Net Interest Margin",
+        "description": "NIM and interest-rate sensitivity"
+    },
+    {
+        "topic_id": "TOPIC-003",
+        "name": "Credit Quality",
+        "description": "NPL, provisions and credit costs"
+    },
+    {
+        "topic_id": "TOPIC-004",
+        "name": "Capital",
+        "description": "CET1, capital generation and distributions"
+    },
+    {
+        "topic_id": "TOPIC-005",
+        "name": "Valuation",
+        "description": "P/E, P/B, DDM and internal fair value"
+    },
+    {
+        "topic_id": "TOPIC-006",
+        "name": "Share Performance",
+        "description": "Historical price and relative performance"
+    },
+    {
+        "topic_id": "TOPIC-007",
+        "name": "Macroeconomics",
+        "description": "Rates, inflation, GDP and economic conditions"
+    },
+    {
+        "topic_id": "TOPIC-008",
+        "name": "Sector Comparison",
+        "description": "Relative comparison between banks"
+    },
+    {
+        "topic_id": "TOPIC-009",
+        "name": "Management Commentary",
+        "description": "Management outlook and strategic commentary"
+    },
+    {
+        "topic_id": "TOPIC-010",
+        "name": "Risk",
+        "description": "Business, credit, market and regulatory risks"
+    }
+]

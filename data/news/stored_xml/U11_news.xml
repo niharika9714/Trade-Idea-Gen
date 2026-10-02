@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<financial_news dataset_type="synthetic_financial_news" ticker="U11">
+    <article>
+        <metadata>
+            <article_id>NEWS-U11-001</article_id>
+            <ticker>U11</ticker>
+            <company>UOB</company>
+            <sector>Singapore Banks</sector>
+            <event_id>U11-EVENT-003</event_id>
+            <publication_datetime>2025-08-08T09:35:00</publication_datetime>
+            <event_datetime>2025-08-08T08:00:00</event_datetime>
+            <source>Synthetic Financial Wire</source>
+            <author>Synthetic Banking Correspondent</author>
+            <article_type>earnings</article_type>
+        </metadata>
+        <content>
+            <headline>UOB synthetic earnings maintain focus on profitability</headline>
+            <summary>Synthetic results highlight profitability, capital strength and the trajectory of net interest margin.</summary>
+            <body>The synthetic UOB earnings update highlighted profitability and capital strength. Investors continued to monitor the relationship between net interest margin, return on equity and valuation.</body>
+            <sentiment>positive</sentiment>
+        </content>
+        <tags>
+            <tag>earnings</tag>
+            <tag>nim</tag>
+            <tag>roe</tag>
+            <tag>capital</tag>
+        </tags>
+        <entities>
+            <entity>UOB</entity>
+            <entity>Singapore Banks</entity>
+        </entities>
+    </article>
+    <article>
+        <metadata>
+            <article_id>NEWS-U11-002</article_id>
+            <ticker>U11</ticker>
+            <company>UOB</company>
+            <sector>Singapore Banks</sector>
+            <event_id>U11-EVENT-003</event_id>
+            <publication_datetime>2025-08-08T14:05:00</publication_datetime>
+            <event_datetime>2025-08-08T08:00:00</event_datetime>
+            <source>Synthetic Market Intelligence</source>
+            <author>Synthetic Markets Team</author>
+            <article_type>market_reaction</article_type>
+        </metadata>
+        <content>
+            <headline>UOB shares react to earnings and peer valuation signals</headline>
+            <summary>The synthetic market reaction reflected both company fundamentals and broader Singapore banking sentiment.</summary>
+            <body>The synthetic market intelligence report noted that UOB's price movement reflected both company-specific earnings information and changes in peer valuation.</body>
+            <sentiment>neutral</sentiment>
+        </content>
+        <tags>
+            <tag>market-reaction</tag>
+            <tag>peer-comparison</tag>
+            <tag>valuation</tag>
+        </tags>
+        <entities>
+            <entity>UOB</entity>
+            <entity>Singapore Banks</entity>
+        </entities>
+    </article>
+</financial_news>

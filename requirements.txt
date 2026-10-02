@@ -1,0 +1,27 @@
+# Core
+python-dotenv
+
+# Data
+pandas
+numpy
+
+# Documents
+pypdf
+python-docx
+python-pptx
+openpyxl
+
+# Outlook / email
+extract-msg
+
+# XML / JSON
+lxml
+
+# Database
+sqlalchemy
+
+# Charts
+matplotlib
+
+# Utilities
+faker

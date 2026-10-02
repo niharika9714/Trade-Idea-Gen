@@ -1,0 +1,29 @@
+{
+    "api_response_type": "nim_scenario",
+    "api_version": "1.0",
+    "request_id": "REQ-NIM-STAN-001",
+    "generated_at": "2026-09-27T05:19:48.138009Z",
+    "company": {
+        "ticker": "STAN",
+        "name": "Standard Chartered",
+        "sector": "Global Banks"
+    },
+    "scenario": {
+        "scenario_name": "50bps NIM Compression",
+        "base_nim_percent": 1.82,
+        "nim_change_bps": -50,
+        "stressed_nim_percent": 1.32
+    },
+    "calculations": {
+        "estimated_eps_impact_percent": -6.0,
+        "base_eps": 0.91,
+        "stressed_eps": 0.855,
+        "estimated_eps_change": -0.055
+    },
+    "provenance": {
+        "source_system": "Synthetic Internal Pricing Engine",
+        "source_type": "internal_api",
+        "calculation_type": "scenario_analysis",
+        "synthetic": true
+    }
+}

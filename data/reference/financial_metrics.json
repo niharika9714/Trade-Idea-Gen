@@ -1,0 +1,92 @@
+[
+    {
+        "metric_id": "MET-001",
+        "name": "Revenue",
+        "category": "Income Statement",
+        "unit": "million"
+    },
+    {
+        "metric_id": "MET-002",
+        "name": "Net Interest Income",
+        "category": "Income Statement",
+        "unit": "million"
+    },
+    {
+        "metric_id": "MET-003",
+        "name": "Net Interest Margin",
+        "category": "Profitability",
+        "unit": "percentage"
+    },
+    {
+        "metric_id": "MET-004",
+        "name": "ROE",
+        "category": "Profitability",
+        "unit": "percentage"
+    },
+    {
+        "metric_id": "MET-005",
+        "name": "ROA",
+        "category": "Profitability",
+        "unit": "percentage"
+    },
+    {
+        "metric_id": "MET-006",
+        "name": "Loan Growth",
+        "category": "Growth",
+        "unit": "percentage"
+    },
+    {
+        "metric_id": "MET-007",
+        "name": "Deposit Growth",
+        "category": "Growth",
+        "unit": "percentage"
+    },
+    {
+        "metric_id": "MET-008",
+        "name": "CET1 Ratio",
+        "category": "Capital",
+        "unit": "percentage"
+    },
+    {
+        "metric_id": "MET-009",
+        "name": "NPL Ratio",
+        "category": "Credit Quality",
+        "unit": "percentage"
+    },
+    {
+        "metric_id": "MET-010",
+        "name": "Credit Cost",
+        "category": "Credit Quality",
+        "unit": "basis_points"
+    },
+    {
+        "metric_id": "MET-011",
+        "name": "Cost-to-Income Ratio",
+        "category": "Efficiency",
+        "unit": "percentage"
+    },
+    {
+        "metric_id": "MET-012",
+        "name": "EPS",
+        "category": "Valuation",
+        "unit": "currency"
+    },
+    {
+        "metric_id": "MET-013",
+        "name": "Book Value Per Share",
+        "category": "Valuation",
+        "unit": "currency"
+    },
+    {
+        "metric_id": "MET-014",
+        "name": "P/E",
+        "category": "Valuation",
+        "unit": "multiple"
+    },
+    {
+        "metric_id": "MET-015",
+        "name": "P/B",
+        "category": "Valuation",
+        "unit": "multiple"
+    }
+]

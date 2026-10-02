@@ -1,0 +1,23 @@
+[
+    {
+        "sector_id": "SEC-001",
+        "name": "Singapore Banks",
+        "description": "Synthetic Singapore banking sector",
+        "companies": [
+            "COMP-001",
+            "COMP-002",
+            "COMP-003"
+        ],
+        "synthetic": true
+    },
+    {
+        "sector_id": "SEC-002",
+        "name": "Global Banks",
+        "description": "Synthetic global banking sector",
+        "companies": [
+            "COMP-004",
+            "COMP-005"
+        ],
+        "synthetic": true
+    }
+]

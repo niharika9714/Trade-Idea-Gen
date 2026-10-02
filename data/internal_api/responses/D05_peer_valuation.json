@@ -1,0 +1,50 @@
+{
+    "api_response_type": "peer_valuation",
+    "api_version": "1.0",
+    "request_id": "REQ-PEER-D05-001",
+    "generated_at": "2026-09-27T05:19:48.073800Z",
+    "target_company": {
+        "ticker": "D05",
+        "company": "DBS Group",
+        "pe": 12.42,
+        "pb": 1.49,
+        "roe": 15.8
+    },
+    "peer_set": [
+        {
+            "ticker": "D05",
+            "company": "DBS Group",
+            "pe": 12.42,
+            "pb": 1.49,
+            "roe": 15.8
+        },
+        {
+            "ticker": "O39",
+            "company": "OCBC",
+            "pe": 10.48,
+            "pb": 1.33,
+            "roe": 13.9
+        },
+        {
+            "ticker": "U11",
+            "company": "UOB",
+            "pe": 12.0,
+            "pb": 1.42,
+            "roe": 14.5
+        }
+    ],
+    "peer_average": {
+        "pe": 11.63,
+        "pb": 1.41
+    },
+    "relative_metrics": {
+        "pe_premium_vs_peer": 6.76,
+        "pb_premium_vs_peer": 5.42
+    },
+    "provenance": {
+        "source_system": "Synthetic Internal Pricing Engine",
+        "source_type": "internal_api",
+        "calculation_type": "relative_valuation",
+        "synthetic": true
+    }
+}

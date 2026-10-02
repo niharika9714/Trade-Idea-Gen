@@ -1,0 +1,62 @@
+[
+    {
+        "company_id": "COMP-001",
+        "name": "DBS Group",
+        "ticker": "D05",
+        "exchange": "SGX",
+        "currency": "SGD",
+        "sector_id": "SEC-001",
+        "sector": "Singapore Banks",
+        "country": "Singapore",
+        "market_cap_category": "Large Cap",
+        "synthetic": true
+    },
+    {
+        "company_id": "COMP-002",
+        "name": "OCBC",
+        "ticker": "O39",
+        "exchange": "SGX",
+        "currency": "SGD",
+        "sector_id": "SEC-001",
+        "sector": "Singapore Banks",
+        "country": "Singapore",
+        "market_cap_category": "Large Cap",
+        "synthetic": true
+    },
+    {
+        "company_id": "COMP-003",
+        "name": "UOB",
+        "ticker": "U11",
+        "exchange": "SGX",
+        "currency": "SGD",
+        "sector_id": "SEC-001",
+        "sector": "Singapore Banks",
+        "country": "Singapore",
+        "market_cap_category": "Large Cap",
+        "synthetic": true
+    },
+    {
+        "company_id": "COMP-004",
+        "name": "HSBC",
+        "ticker": "HSBA",
+        "exchange": "LSE",
+        "currency": "GBP",
+        "sector_id": "SEC-002",
+        "sector": "Global Banks",
+        "country": "United Kingdom",
+        "market_cap_category": "Large Cap",
+        "synthetic": true
+    },
+    {
+        "company_id": "COMP-005",
+        "name": "Standard Chartered",
+        "ticker": "STAN",
+        "exchange": "LSE",
+        "currency": "GBP",
+        "sector_id": "SEC-002",
+        "sector": "Global Banks",
+        "country": "United Kingdom",
+        "market_cap_category": "Large Cap",
+        "synthetic": true
+    }
+]

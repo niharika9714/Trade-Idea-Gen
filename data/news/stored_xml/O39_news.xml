@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<financial_news dataset_type="synthetic_financial_news" ticker="O39">
+    <article>
+        <metadata>
+            <article_id>NEWS-O39-001</article_id>
+            <ticker>O39</ticker>
+            <company>OCBC</company>
+            <sector>Singapore Banks</sector>
+            <event_id>O39-EVENT-003</event_id>
+            <publication_datetime>2025-08-08T09:25:00</publication_datetime>
+            <event_datetime>2025-08-08T08:00:00</event_datetime>
+            <source>Synthetic Financial Wire</source>
+            <author>Synthetic Banking Correspondent</author>
+            <article_type>earnings</article_type>
+        </metadata>
+        <content>
+            <headline>OCBC synthetic earnings show resilient profitability</headline>
+            <summary>OCBC's synthetic earnings update indicates resilient profitability and capital strength.</summary>
+            <body>The synthetic OCBC earnings release showed resilient profitability, stable capital metrics and continued balance-sheet strength. Investors focused on the trajectory of margins and valuation relative to peers.</body>
+            <sentiment>positive</sentiment>
+        </content>
+        <tags>
+            <tag>earnings</tag>
+            <tag>profitability</tag>
+            <tag>capital</tag>
+            <tag>valuation</tag>
+        </tags>
+        <entities>
+            <entity>OCBC</entity>
+            <entity>Singapore Banks</entity>
+        </entities>
+    </article>
+    <article>
+        <metadata>
+            <article_id>NEWS-O39-002</article_id>
+            <ticker>O39</ticker>
+            <company>OCBC</company>
+            <sector>Singapore Banks</sector>
+            <event_id>O39-EVENT-003</event_id>
+            <publication_datetime>2025-08-08T13:10:00</publication_datetime>
+            <event_datetime>2025-08-08T08:00:00</event_datetime>
+            <source>Synthetic Market Intelligence</source>
+            <author>Synthetic Markets Team</author>
+            <article_type>market_reaction</article_type>
+        </metadata>
+        <content>
+            <headline>OCBC market reaction reflects changing margin expectations</headline>
+            <summary>The synthetic market reaction was associated with changes in expectations around future margins.</summary>
+            <body>OCBC shares experienced a synthetic market movement following the earnings announcement. Market commentary focused on expectations for future net interest margins and relative valuation.</body>
+            <sentiment>neutral</sentiment>
+        </content>
+        <tags>
+            <tag>market-reaction</tag>
+            <tag>nim</tag>
+            <tag>valuation</tag>
+        </tags>
+        <entities>
+            <entity>OCBC</entity>
+        </entities>
+    </article>
+</financial_news>

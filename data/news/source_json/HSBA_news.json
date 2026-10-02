@@ -1,0 +1,33 @@
+{
+    "dataset_type": "synthetic_financial_news",
+    "ticker": "HSBA",
+    "article_count": 1,
+    "articles": [
+        {
+            "article_id": "NEWS-HSBA-001",
+            "ticker": "HSBA",
+            "company": "HSBC",
+            "sector": "Global Banks",
+            "event_id": "HSBA-EVENT-003",
+            "publication_datetime": "2025-08-08T10:00:00",
+            "event_datetime": "2025-08-08T08:00:00",
+            "source": "Synthetic Global Markets Wire",
+            "author": "Synthetic Banking Correspondent",
+            "article_type": "earnings",
+            "headline": "HSBC synthetic results highlight resilient profitability",
+            "summary": "Synthetic HSBC results indicate resilient profitability and continued attention to capital efficiency.",
+            "sentiment": "positive",
+            "body": "The synthetic HSBC earnings release highlighted profitability and capital efficiency. Global investors continued to assess valuation against broader banking sector conditions.",
+            "tags": [
+                "earnings",
+                "profitability",
+                "capital",
+                "valuation"
+            ],
+            "entities": [
+                "HSBC",
+                "Global Banks"
+            ]
+        }
+    ]
+}

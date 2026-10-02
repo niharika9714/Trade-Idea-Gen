@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<financial_news dataset_type="synthetic_financial_news" ticker="HSBA">
+    <article>
+        <metadata>
+            <article_id>NEWS-HSBA-001</article_id>
+            <ticker>HSBA</ticker>
+            <company>HSBC</company>
+            <sector>Global Banks</sector>
+            <event_id>HSBA-EVENT-003</event_id>
+            <publication_datetime>2025-08-08T10:00:00</publication_datetime>
+            <event_datetime>2025-08-08T08:00:00</event_datetime>
+            <source>Synthetic Global Markets Wire</source>
+            <author>Synthetic Banking Correspondent</author>
+            <article_type>earnings</article_type>
+        </metadata>
+        <content>
+            <headline>HSBC synthetic results highlight resilient profitability</headline>
+            <summary>Synthetic HSBC results indicate resilient profitability and continued attention to capital efficiency.</summary>
+            <body>The synthetic HSBC earnings release highlighted profitability and capital efficiency. Global investors continued to assess valuation against broader banking sector conditions.</body>
+            <sentiment>positive</sentiment>
+        </content>
+        <tags>
+            <tag>earnings</tag>
+            <tag>profitability</tag>
+            <tag>capital</tag>
+            <tag>valuation</tag>
+        </tags>
+        <entities>
+            <entity>HSBC</entity>
+            <entity>Global Banks</entity>
+        </entities>
+    </article>
+</financial_news>

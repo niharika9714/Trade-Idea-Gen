@@ -1,0 +1,38 @@
+{
+    "api_response_type": "valuation",
+    "api_version": "1.0",
+    "request_id": "REQ-VALUATION-HSBA-001",
+    "generated_at": "2026-09-27T05:19:48.094380Z",
+    "company": {
+        "ticker": "HSBA",
+        "name": "HSBC",
+        "sector": "Global Banks",
+        "currency": "GBP"
+    },
+    "inputs": {
+        "share_price": 7.25,
+        "eps": 0.82,
+        "book_value_per_share": 6.1,
+        "target_pe_multiplier": 1.08,
+        "target_pb_multiplier": 1.05
+    },
+    "calculations": {
+        "current_pe": 8.8415,
+        "current_pb": 1.1885,
+        "pe_target_price": 7.83,
+        "pb_target_price": 7.61,
+        "blended_target_price": 7.74,
+        "implied_upside_percent": 6.8
+    },
+    "methodology": {
+        "pe_weight": 0.6,
+        "pb_weight": 0.4,
+        "description": "Synthetic blended P/E and P/B valuation model."
+    },
+    "provenance": {
+        "source_system": "Synthetic Internal Pricing Engine",
+        "source_type": "internal_api",
+        "calculation_type": "valuation",
+        "synthetic": true
+    }
+}

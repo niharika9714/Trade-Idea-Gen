@@ -1,0 +1,38 @@
+{
+    "api_response_type": "valuation",
+    "api_version": "1.0",
+    "request_id": "REQ-VALUATION-O39-001",
+    "generated_at": "2026-09-27T05:19:48.073800Z",
+    "company": {
+        "ticker": "O39",
+        "name": "OCBC",
+        "sector": "Singapore Banks",
+        "currency": "SGD"
+    },
+    "inputs": {
+        "share_price": 15.2,
+        "eps": 1.45,
+        "book_value_per_share": 11.4,
+        "target_pe_multiplier": 1.08,
+        "target_pb_multiplier": 1.05
+    },
+    "calculations": {
+        "current_pe": 10.4828,
+        "current_pb": 1.3333,
+        "pe_target_price": 16.42,
+        "pb_target_price": 15.96,
+        "blended_target_price": 16.23,
+        "implied_upside_percent": 6.8
+    },
+    "methodology": {
+        "pe_weight": 0.6,
+        "pb_weight": 0.4,
+        "description": "Synthetic blended P/E and P/B valuation model."
+    },
+    "provenance": {
+        "source_system": "Synthetic Internal Pricing Engine",
+        "source_type": "internal_api",
+        "calculation_type": "valuation",
+        "synthetic": true
+    }
+}

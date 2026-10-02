@@ -1,0 +1,29 @@
+{
+    "api_response_type": "nim_scenario",
+    "api_version": "1.0",
+    "request_id": "REQ-NIM-D05-001",
+    "generated_at": "2026-09-27T05:19:48.073800Z",
+    "company": {
+        "ticker": "D05",
+        "name": "DBS Group",
+        "sector": "Singapore Banks"
+    },
+    "scenario": {
+        "scenario_name": "50bps NIM Compression",
+        "base_nim_percent": 2.15,
+        "nim_change_bps": -50,
+        "stressed_nim_percent": 1.65
+    },
+    "calculations": {
+        "estimated_eps_impact_percent": -6.0,
+        "base_eps": 3.1,
+        "stressed_eps": 2.914,
+        "estimated_eps_change": -0.186
+    },
+    "provenance": {
+        "source_system": "Synthetic Internal Pricing Engine",
+        "source_type": "internal_api",
+        "calculation_type": "scenario_analysis",
+        "synthetic": true
+    }
+}

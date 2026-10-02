@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<financial_news dataset_type="synthetic_financial_news" ticker="D05">
+    <article>
+        <metadata>
+            <article_id>NEWS-D05-001</article_id>
+            <ticker>D05</ticker>
+            <company>DBS Group</company>
+            <sector>Singapore Banks</sector>
+            <event_id>D05-EVENT-003</event_id>
+            <publication_datetime>2025-08-08T09:15:00</publication_datetime>
+            <event_datetime>2025-08-08T08:00:00</event_datetime>
+            <source>Synthetic Financial Wire</source>
+            <author>Synthetic Banking Correspondent</author>
+            <article_type>earnings</article_type>
+        </metadata>
+        <content>
+            <headline>DBS reports stronger synthetic quarterly earnings with stable capital position</headline>
+            <summary>Synthetic results indicate continued profitability and stable capital metrics, while net interest margin shows moderate movement.</summary>
+            <body>DBS Group reported a synthetic quarterly earnings update showing continued profitability. Net interest income remained resilient while the synthetic net interest margin was broadly stable. Return on equity remained elevated and the synthetic CET1 ratio stayed above the assumed internal threshold. Analysts in the synthetic research universe focused on whether the earnings trajectory justified the prevailing valuation.</body>
+            <sentiment>positive</sentiment>
+        </content>
+        <tags>
+            <tag>earnings</tag>
+            <tag>net-interest-margin</tag>
+            <tag>roe</tag>
+            <tag>capital</tag>
+            <tag>valuation</tag>
+        </tags>
+        <entities>
+            <entity>DBS Group</entity>
+            <entity>Singapore Banks</entity>
+        </entities>
+    </article>
+    <article>
+        <metadata>
+            <article_id>NEWS-D05-002</article_id>
+            <ticker>D05</ticker>
+            <company>DBS Group</company>
+            <sector>Singapore Banks</sector>
+            <event_id>D05-EVENT-003</event_id>
+            <publication_datetime>2025-08-08T12:40:00</publication_datetime>
+            <event_datetime>2025-08-08T08:00:00</event_datetime>
+            <source>Synthetic Market Intelligence</source>
+            <author>Synthetic Markets Team</author>
+            <article_type>market_reaction</article_type>
+        </metadata>
+        <content>
+            <headline>DBS shares move sharply after earnings as investors reassess valuation</headline>
+            <summary>The synthetic market reaction was driven primarily by changes in valuation expectations rather than a large deterioration in reported fundamentals.</summary>
+            <body>Following the synthetic earnings release, DBS shares experienced a significant intraday movement. The synthetic market intelligence team attributed the reaction to a combination of valuation expectations, forward earnings assumptions and positioning. The fundamental indicators themselves did not show an equivalent deterioration.</body>
+            <sentiment>neutral</sentiment>
+        </content>
+        <tags>
+            <tag>market-reaction</tag>
+            <tag>valuation</tag>
+            <tag>earnings</tag>
+            <tag>share-price</tag>
+        </tags>
+        <entities>
+            <entity>DBS Group</entity>
+        </entities>
+    </article>
+    <article>
+        <metadata>
+            <article_id>NEWS-D05-003</article_id>
+            <ticker>D05</ticker>
+            <company>DBS Group</company>
+            <sector>Singapore Banks</sector>
+            <event_id>D05-EVENT-003</event_id>
+            <publication_datetime>2025-08-09T10:05:00</publication_datetime>
+            <event_datetime>2025-08-08T08:00:00</event_datetime>
+            <source>Synthetic Equity Research</source>
+            <author>Synthetic Equity Analyst</author>
+            <article_type>analyst_commentary</article_type>
+        </metadata>
+        <content>
+            <headline>DBS valuation remains sensitive to margin expectations</headline>
+            <summary>Synthetic analyst commentary highlights the sensitivity of bank valuation to changes in net interest margin and return on equity.</summary>
+            <body>The synthetic equity research team highlighted the relationship between net interest margin, return on equity and valuation multiples. Historical observations suggest that changes in expected profitability can lead to larger valuation adjustments than changes in current earnings alone.</body>
+            <sentiment>neutral</sentiment>
+        </content>
+        <tags>
+            <tag>valuation</tag>
+            <tag>nim</tag>
+            <tag>roe</tag>
+            <tag>analyst</tag>
+        </tags>
+        <entities>
+            <entity>DBS Group</entity>
+            <entity>Singapore Banks</entity>
+        </entities>
+    </article>
+</financial_news>

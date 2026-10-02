@@ -1,0 +1,85 @@
+{
+    "dataset_type": "synthetic_financial_news",
+    "ticker": "D05",
+    "article_count": 3,
+    "articles": [
+        {
+            "article_id": "NEWS-D05-001",
+            "ticker": "D05",
+            "company": "DBS Group",
+            "sector": "Singapore Banks",
+            "event_id": "D05-EVENT-003",
+            "publication_datetime": "2025-08-08T09:15:00",
+            "event_datetime": "2025-08-08T08:00:00",
+            "source": "Synthetic Financial Wire",
+            "author": "Synthetic Banking Correspondent",
+            "article_type": "earnings",
+            "headline": "DBS reports stronger synthetic quarterly earnings with stable capital position",
+            "summary": "Synthetic results indicate continued profitability and stable capital metrics, while net interest margin shows moderate movement.",
+            "sentiment": "positive",
+            "body": "DBS Group reported a synthetic quarterly earnings update showing continued profitability. Net interest income remained resilient while the synthetic net interest margin was broadly stable. Return on equity remained elevated and the synthetic CET1 ratio stayed above the assumed internal threshold. Analysts in the synthetic research universe focused on whether the earnings trajectory justified the prevailing valuation.",
+            "tags": [
+                "earnings",
+                "net-interest-margin",
+                "roe",
+                "capital",
+                "valuation"
+            ],
+            "entities": [
+                "DBS Group",
+                "Singapore Banks"
+            ]
+        },
+        {
+            "article_id": "NEWS-D05-002",
+            "ticker": "D05",
+            "company": "DBS Group",
+            "sector": "Singapore Banks",
+            "event_id": "D05-EVENT-003",
+            "publication_datetime": "2025-08-08T12:40:00",
+            "event_datetime": "2025-08-08T08:00:00",
+            "source": "Synthetic Market Intelligence",
+            "author": "Synthetic Markets Team",
+            "article_type": "market_reaction",
+            "headline": "DBS shares move sharply after earnings as investors reassess valuation",
+            "summary": "The synthetic market reaction was driven primarily by changes in valuation expectations rather than a large deterioration in reported fundamentals.",
+            "sentiment": "neutral",
+            "body": "Following the synthetic earnings release, DBS shares experienced a significant intraday movement. The synthetic market intelligence team attributed the reaction to a combination of valuation expectations, forward earnings assumptions and positioning. The fundamental indicators themselves did not show an equivalent deterioration.",
+            "tags": [
+                "market-reaction",
+                "valuation",
+                "earnings",
+                "share-price"
+            ],
+            "entities": [
+                "DBS Group"
+            ]
+        },
+        {
+            "article_id": "NEWS-D05-003",
+            "ticker": "D05",
+            "company": "DBS Group",
+            "sector": "Singapore Banks",
+            "event_id": "D05-EVENT-003",
+            "publication_datetime": "2025-08-09T10:05:00",
+            "event_datetime": "2025-08-08T08:00:00",
+            "source": "Synthetic Equity Research",
+            "author": "Synthetic Equity Analyst",
+            "article_type": "analyst_commentary",
+            "headline": "DBS valuation remains sensitive to margin expectations",
+            "summary": "Synthetic analyst commentary highlights the sensitivity of bank valuation to changes in net interest margin and return on equity.",
+            "sentiment": "neutral",
+            "body": "The synthetic equity research team highlighted the relationship between net interest margin, return on equity and valuation multiples. Historical observations suggest that changes in expected profitability can lead to larger valuation adjustments than changes in current earnings alone.",
+            "tags": [
+                "valuation",
+                "nim",
+                "roe",
+                "analyst"
+            ],
+            "entities": [
+                "DBS Group",
+                "Singapore Banks"
+            ]
+        }
+    ]
+}

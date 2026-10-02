@@ -1,0 +1,57 @@
+{
+    "dataset_type": "synthetic_financial_news",
+    "ticker": "O39",
+    "article_count": 2,
+    "articles": [
+        {
+            "article_id": "NEWS-O39-001",
+            "ticker": "O39",
+            "company": "OCBC",
+            "sector": "Singapore Banks",
+            "event_id": "O39-EVENT-003",
+            "publication_datetime": "2025-08-08T09:25:00",
+            "event_datetime": "2025-08-08T08:00:00",
+            "source": "Synthetic Financial Wire",
+            "author": "Synthetic Banking Correspondent",
+            "article_type": "earnings",
+            "headline": "OCBC synthetic earnings show resilient profitability",
+            "summary": "OCBC's synthetic earnings update indicates resilient profitability and capital strength.",
+            "sentiment": "positive",
+            "body": "The synthetic OCBC earnings release showed resilient profitability, stable capital metrics and continued balance-sheet strength. Investors focused on the trajectory of margins and valuation relative to peers.",
+            "tags": [
+                "earnings",
+                "profitability",
+                "capital",
+                "valuation"
+            ],
+            "entities": [
+                "OCBC",
+                "Singapore Banks"
+            ]
+        },
+        {
+            "article_id": "NEWS-O39-002",
+            "ticker": "O39",
+            "company": "OCBC",
+            "sector": "Singapore Banks",
+            "event_id": "O39-EVENT-003",
+            "publication_datetime": "2025-08-08T13:10:00",
+            "event_datetime": "2025-08-08T08:00:00",
+            "source": "Synthetic Market Intelligence",
+            "author": "Synthetic Markets Team",
+            "article_type": "market_reaction",
+            "headline": "OCBC market reaction reflects changing margin expectations",
+            "summary": "The synthetic market reaction was associated with changes in expectations around future margins.",
+            "sentiment": "neutral",
+            "body": "OCBC shares experienced a synthetic market movement following the earnings announcement. Market commentary focused on expectations for future net interest margins and relative valuation.",
+            "tags": [
+                "market-reaction",
+                "nim",
+                "valuation"
+            ],
+            "entities": [
+                "OCBC"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "relationship_id": "REL-001",
+        "from": "COMP-001",
+        "relationship": "COMPETES_WITH",
+        "to": "COMP-002"
+    },
+    {
+        "relationship_id": "REL-002",
+        "from": "COMP-001",
+        "relationship": "COMPETES_WITH",
+        "to": "COMP-003"
+    },
+    {
+        "relationship_id": "REL-003",
+        "from": "COMP-002",
+        "relationship": "COMPETES_WITH",
+        "to": "COMP-003"
+    },
+    {
+        "relationship_id": "REL-004",
+        "from": "COMP-004",
+        "relationship": "COMPETES_WITH",
+        "to": "COMP-005"
+    },
+    {
+        "relationship_id": "REL-005",
+        "from": "SEC-001",
+        "relationship": "BENCHMARKED_AGAINST",
+        "to": "SEC-002"
+    }
+]

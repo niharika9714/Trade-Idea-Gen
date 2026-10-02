@@ -1,0 +1,42 @@
+[
+    {
+        "instrument_id": "INST-001",
+        "company_id": "COMP-001",
+        "ticker": "D05",
+        "instrument_type": "EQUITY",
+        "currency": "SGD",
+        "exchange": "SGX"
+    },
+    {
+        "instrument_id": "INST-002",
+        "company_id": "COMP-002",
+        "ticker": "O39",
+        "instrument_type": "EQUITY",
+        "currency": "SGD",
+        "exchange": "SGX"
+    },
+    {
+        "instrument_id": "INST-003",
+        "company_id": "COMP-003",
+        "ticker": "U11",
+        "instrument_type": "EQUITY",
+        "currency": "SGD",
+        "exchange": "SGX"
+    },
+    {
+        "instrument_id": "INST-004",
+        "company_id": "COMP-004",
+        "ticker": "HSBA",
+        "instrument_type": "EQUITY",
+        "currency": "GBP",
+        "exchange": "LSE"
+    },
+    {
+        "instrument_id": "INST-005",
+        "company_id": "COMP-005",
+        "ticker": "STAN",
+        "instrument_type": "EQUITY",
+        "currency": "GBP",
+        "exchange": "LSE"
+    }
+]
